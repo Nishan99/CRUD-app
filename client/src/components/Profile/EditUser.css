@@ -1,0 +1,47 @@
+.userdetails-edit{
+  margin:40px 60px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+  padding:20px 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.useredit-right{
+  /* width: 100%; */
+}
+.useredit-form-edit-field{
+  display: flex;
+}
+.useredit-form-grp{
+  margin-right: 20px;
+}
+
+.useredit-form-edit-field{
+  margin:30px 0px;
+}
+
+
+
+  .useredit-form-grp p{
+    font-size:18px;
+    font-weight: 600;
+  }
+  .useredit-form-grp input{
+    border:none;
+    padding:8px 30px;
+    border-radius: 6px;
+    outline:none;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;;
+  }
+
+  .usereditinfo-btn-login{
+    margin:30px 0px;
+    display: block;
+    width:100%;
+    padding:8px 20px;
+    margin:20px auto;
+    border:none;
+    background-color: #9b59b6;
+    color:#fff;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
